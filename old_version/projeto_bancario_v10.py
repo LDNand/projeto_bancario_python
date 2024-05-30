@@ -30,7 +30,7 @@ menu_retorno = """
 ====================================
 """
 
-while True: 
+while True:
     menu_principal = f"""
     =============== MENU ===============
 
@@ -46,7 +46,7 @@ while True:
 
     """
     print (menu_principal)
-    opcao = int(input("Digite o numero da operacao: ")) 
+    opcao = int(input("Digite o numero da operacao: "))
 
     # saque
     if opcao == 1:
