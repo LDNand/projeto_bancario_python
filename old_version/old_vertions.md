@@ -6,3 +6,4 @@ Aqui estão todas as versões anteriores, para controle de backup e arquivos que
 |----------|--------|
 |1.0       |15-05-23|
 |1.1       |30-05-23|
+|1.2       |31-05-23|
